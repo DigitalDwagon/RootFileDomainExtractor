@@ -44,3 +44,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Output and Input ###
+done.txt
+todo/
+todo/*
